@@ -9,7 +9,8 @@ I've made this game in collaboration with :
 
 How to play it ?
 - Download the Zip and extract it in another new folder.
-- Then launch (**WITHOUT MOVING IT**) the "Brocéliande.exe" file (yes, the name changed during dev) in **MDS** folder and Enjoy !
+- Go in **MDS** folder.
+- Then launch (**WITHOUT MOVING IT**) the "Brocéliande.exe" file (yes, the name changed during dev) and Enjoy !
 
 P.S. :
 - If the game is too loud you can modify the volume level in game settings.
