@@ -17,3 +17,5 @@ P.S. :
 - here is some screenshots to make your mouth water :
   - ![random landscape](https://github.com/BlueBerryBB9/MedievalDeliverySimulator/assets/118543302/22127be3-abd7-400a-811b-c9489eeda97f)
   - ![you can do some tricks](https://github.com/BlueBerryBB9/MedievalDeliverySimulator/assets/118543302/049f7188-dca0-40f8-b6f8-d1797aaab03a)
+
+**This game was made as a school project so we consequently used some free or not free asset of unity store (except for the *caleche* that is original and animated !!!), and was, from the start, not created to be lucrative stuff**
