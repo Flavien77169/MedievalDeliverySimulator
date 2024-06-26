@@ -13,6 +13,26 @@ How to play it ?
 - Then launch (**WITHOUT MOVING IT**) the "Brocéliande.exe" file (yes, the name changed during dev) and Enjoy !
 - OR, you have an **online version** with less performance [here](https://play.unity.com/mg/other/build-k7o-1).
 
+Controls ?
+Mouse and Keyboard :
+
+  - Navigation through menus :
+    - Click on buttons with mouse or arrows.
+    - Ingame :
+      - ESCAPE to access Ingame menu
+      - TAB to access to a large map
+  
+  - You can **move** with :
+    - Z : go Forward
+    - Q : steer Left
+    - S : brake then go Backward
+    - D : steer Right
+
+  - SPACE : to **brake** the hind wheels, not as S does (yes the game can be quite fast)
+
+  - In case your stuck :
+    - If turned turtle / overbalanced -> use R
+
 P.S. :
 - If the game is too loud you can modify the volume level in game settings.
 - 
