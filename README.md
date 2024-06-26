@@ -14,7 +14,7 @@ How to play it ?
 - OR, you have an **online version playable on any browser** with less performance [here](https://play.unity.com/mg/other/build-k7o-1).
 
 Controls ?
-Mouse and Keyboard :
+- Mouse and Keyboard :
 
   - Navigation through menus :
     - Click on buttons with mouse or arrows.
@@ -32,6 +32,15 @@ Mouse and Keyboard :
 
   - In case your stuck :
     - If turned turtle / overbalanced -> use R
+
+- Controller :
+
+  - Navigation through menus :
+    - Move with pad ✙
+    - accept with ![image](https://github.com/BlueBerryBB9/MedievalDeliverySimulator/assets/118543302/172fabc6-351f-47e4-b061-eb52a4c987b8)
+    - Ingame :
+      - ESCAPE to access Ingame menu
+      - TAB to access to a large map
 
 P.S. :
 - If the game is too loud you can modify the volume level in game settings.
