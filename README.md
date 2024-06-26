@@ -11,7 +11,7 @@ How to play it ?
 - Download the Zip and extract it in another new folder.
 - Go in **MDS** folder.
 - Then launch (**WITHOUT MOVING IT**) the "Brocéliande.exe" file (yes, the name changed during dev) and Enjoy !
-- OR, you have an **online version playable on any browser** with less performance [here](https://play.unity.com/mg/other/build-k7o-1).
+- OR, you have an **online version playable on any browser** with less performance [here](https://play.unity.com/mg/other/build-k7o-1) (with unity play).
 
 Controls ?
 - Mouse and Keyboard :
