@@ -11,9 +11,11 @@ How to play it ?
 - Download the Zip and extract it in another new folder.
 - Go in **MDS** folder.
 - Then launch (**WITHOUT MOVING IT**) the "Brocéliande.exe" file (yes, the name changed during dev) and Enjoy !
+- OR, you have an **online version** with less performance [here](https://play.unity.com/mg/other/build-k7o-1).
 
 P.S. :
 - If the game is too loud you can modify the volume level in game settings.
+- 
 - This game was made as a 1 week project at our school (89 digital school).
 - here is some screenshots to make your mouth water :
   - ![random landscape](https://github.com/BlueBerryBB9/MedievalDeliverySimulator/assets/118543302/22127be3-abd7-400a-811b-c9489eeda97f)
