@@ -19,8 +19,8 @@ Controls ?
   - Navigation through menus :
     - Click on buttons with mouse or arrows.
     - Ingame :
-      - ESCAPE to access Ingame menu
-      - TAB to access to a large map
+      - ESCAPE to enable Ingame menu
+      - TAB to enable to a large map
   
   - You can **move** with :
     - Z : go Forward
@@ -33,14 +33,26 @@ Controls ?
   - In case your stuck :
     - If turned turtle / overbalanced -> use R
 
-- Controller :
+- Controller (based on xbox controller buttons):
 
   - Navigation through menus :
     - Move with pad ✙
-    - accept with ![image](https://github.com/BlueBerryBB9/MedievalDeliverySimulator/assets/118543302/172fabc6-351f-47e4-b061-eb52a4c987b8)
+    - Accept with your accept button (normally **A** button)
+    - Go back by using BACK menu buttons
     - Ingame :
-      - ESCAPE to access Ingame menu
-      - TAB to access to a large map
+      - Option button (☰) to enable Ingame menu
+      - Capture button (☐) to enable to a large map 
+
+  - You can **move** with :
+    - Your joystick only (yes it's peculiar)
+      - Up to accelerate
+      - Down to decelerate
+      - Right or Left to steer
+
+  - RB trigger : to **brake** the hind wheels, not as joystick down does (yes the game can be quite fast)
+
+  - In case your stuck :
+    - If turned turtle / overbalanced -> use X button (not the xbox logo button)
 
 P.S. :
 - If the game is too loud you can modify the volume level in game settings.
