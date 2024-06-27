@@ -56,7 +56,7 @@ Controls ?
 
 P.S. :
 - If the game is too loud you can modify the volume level in game settings.
-- This game was made as a 1 week project at our school (89 digital school).
+- This game was made as a 1 week project at our school (89 school).
 - here is some screenshots to make your mouth water :
   - ![random landscape](https://github.com/BlueBerryBB9/MedievalDeliverySimulator/assets/118543302/22127be3-abd7-400a-811b-c9489eeda97f)
   - ![you can do some tricks](https://github.com/BlueBerryBB9/MedievalDeliverySimulator/assets/118543302/049f7188-dca0-40f8-b6f8-d1797aaab03a)
